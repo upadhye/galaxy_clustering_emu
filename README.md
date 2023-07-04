@@ -1,6 +1,7 @@
-Thank you for using our HOD P(k) emulator. Please see our paper on the
-arxiv for further details. If you do use our emulator, please cite our
-paper. Please send questions to jkwan@anl.gov.
+Thank you for using our HOD P(k) emulator. Please see our paper on
+arXiv.org/abs/1311.6444 for further details. If you do use our
+emulator, please cite our paper. Please send questions to
+julianakwan123@gmail.com
 
 To begin, you will need a version of GSL installed, which you can
 download from here: http://www.gnu.org/software/gsl/. I have version
