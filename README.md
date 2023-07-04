@@ -56,9 +56,9 @@ The parameter ranges are (using the Zheng et al. 2005 model):
 
 0.5 < kappa < 1.5
 
-1.5 < alpha < 1.5
+0.5 < alpha < 1.5
 
-0 < z < 1
+0 <= z <= 1
 
 If you get it wrong, the code will helpfully remind you of the
 parameter ranges again.
