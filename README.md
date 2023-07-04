@@ -29,15 +29,10 @@ of parameters in *cosmoparams is the same as in the params.ini file.
 To run the emulator, type: 
 emu.out params.ini output.txt
 
-params.ini contains the HOD parameters, in the following
-order:
+params.ini contains the HOD parameters (using the Zheng et al. 2005
+model), in the following order:
 
-log10(Mcut)  
-log10(M1)
-sigma
-kappa
-alpha
-z
+log10(Mcut), log10(M1), sigma, kappa, alpha, z, a flag for outputting either Pk (1) or xi (2)
 
 
 Please write only one parameter per line. You can comment out a line
@@ -46,7 +41,7 @@ will be contained in output.txt. There will also be a short header
 reminding you of your input parameters. 
 
 
-The parameter ranges are (using the Zheng et al. 2005 model):
+The parameter ranges are:
 
 12.85 < Mcut < 13.85  [in units of Msun]
 
