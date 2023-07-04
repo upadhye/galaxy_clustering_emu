@@ -46,12 +46,17 @@ will be contained in output.txt. There will also be a short header
 reminding you of your input parameters. 
 
 
-The parameter ranges are:
+The parameter ranges are (using the Zheng et al. 2005 model):
 12.85 < Mcut < 13.85  Msun
+
 13.3 < M1 < 14.3      Msun
+
 0.5 < sigma < 1.2
+
 0.5 < kappa < 1.5
+
 1.5 < alpha < 1.5
+
 0 < z < 1
 
 If you get it wrong, the code will helpfully remind you of the
