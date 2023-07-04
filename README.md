@@ -47,9 +47,10 @@ reminding you of your input parameters.
 
 
 The parameter ranges are (using the Zheng et al. 2005 model):
-12.85 < Mcut < 13.85  Msun
 
-13.3 < M1 < 14.3      Msun
+12.85 < Mcut < 13.85  [in units of Msun]
+
+13.3 < M1 < 14.3      [in units of Msun]
 
 0.5 < sigma < 1.2
 
